@@ -20,5 +20,3 @@ The KNN algorithm is a simple yet effective classification algorithm. It classif
 4. Exploratory Data Analysis: Basic exploration of the dataset is performed using `pandas` and `matplotlib`. The top 5 rows of the dataset are displayed, and the length and shape of the data are printed.
 5. KNN Algorithm Implementation: The KNN algorithm is implemented using the `KNeighborsClassifier` class from `scikit-learn`. The algorithm is trained on the training set and tested on the testing set.
 6. Model Evaluation: The accuracy of the KNN algorithm is evaluated using the `metrics.accuracy_score` function from `scikit-learn`.
-
-Feel free to explore and modify the notebook according to your needs.
